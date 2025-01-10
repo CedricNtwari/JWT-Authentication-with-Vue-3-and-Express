@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Build Outputs
+dist/
+build/
+client-build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Cache Files
+*.cache
+.cache-loader/
+.pnp.*
+.pnpm-debug.log*
+
+# MacOS
+.DS_Store
+
+# Others
+coverage/
+*.tmp
+*.swp
+*.lock
+*.bak
+*.orig
+*.log
